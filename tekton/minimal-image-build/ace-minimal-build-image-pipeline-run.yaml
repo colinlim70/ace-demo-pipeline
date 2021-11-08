@@ -8,4 +8,4 @@ spec:
     name: ace-minimal-build-image-pipeline
   params:
     - name: dockerRegistry
-      value: "us.icr.io/ace-registry"
+      value: "au.icr.io/cp4i-ns"
